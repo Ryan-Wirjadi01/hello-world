@@ -29,7 +29,7 @@ public class GitDemo {
         for(int i = 1; i <= num; ++i){
             newNumber = newNumber * i;
         }
-        reversNum = newNumber;
+        reverseNum = newNumber;
         return newNumber;
     }
     
